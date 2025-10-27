@@ -1,6 +1,6 @@
 # ITE1100_Tutorial_Keirah 
 # Reason for Repository
-This repository was created for an assignment with the task of getting a better understand for the platform for future use 
+This repository was created for an assignment with the task of getting a better understand of the platform for future use 
 # Steps taken 
 1. Installed Git onto personal laptop and created a GitHub account 
 2. Created a new local repository using Git bash
