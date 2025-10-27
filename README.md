@@ -9,3 +9,6 @@ This repository was created for an assignment with the task of getting a better 
 5. Pushed new Branch to GitHub Repository using (git push -u origin <branch-name>) 
 6. Created a pull request on the GitHub repository and assigned a reviewer 
 7. Once the review is approved by collaborator, the new branch is merged into the main (master) branch
+# collaborators 
+> Keirah Jacobs
+> Mark Johnson 
